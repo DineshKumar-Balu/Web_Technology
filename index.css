@@ -1,0 +1,54 @@
+.pic{
+    margin-left: -10px;
+    display: flex;
+    
+}
+.t1{
+    margin-left: 300px;
+    display: flex;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.t{
+    margin-right: 50px;  
+}
+.r{
+    margin-right: 50px; 
+}
+.c{
+    margin-right: 90px; 
+}
+.new{
+    margin-left: 20px;
+   
+}
+.min{
+    display: flex;
+    margin-left: 20px;
+}
+.intake{
+    margin-left: 900px;
+}
+.intake1{
+    margin-left: 1000px;
+}
+.intake2{
+    margin-left: 780px;
+}
+h4{
+    margin-left: 20px;
+}
+.mm{
+    border-style:solid;
+}
+.poc{
+    display: flex;
+    margin-left: 20px;
+}
+.poc1{
+    margin-left: 50px;
+}
+.click{
+    text-align: center;
+}
